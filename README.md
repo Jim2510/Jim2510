@@ -3,19 +3,17 @@
 <h3 align="center">A passionate fullstack developer from Italy</h3>
 <a align="center" href="https://fullstack-portfolio-three.vercel.app/">Visit My Portfolio</a>  
 
-- 🔭 I’m currently working on [business management platform](https://github.com/Jim2510/Gestify)
+- 🔭 I’m currently working on ecommerce
 
-- 🌱 I’m currently learning **React, TypeScript, NodeJs, NestJs**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **fullstack projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jim2510](https://github.com/Jim2510)
 
-- 💬 Ask me about **React, javascript, typescript**
+- 💬 Ask me about **React, javascript, typescript, nodejs, angular and more**
 
 - 📫 How to reach me **gmguglielmino@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1F4MXtOVAhYukB6DHd7dDUS9RFmIegFvh/view?usp=drive_link](https://drive.google.com/file/d/1F4MXtOVAhYukB6DHd7dDUS9RFmIegFvh/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
