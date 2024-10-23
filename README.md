@@ -3,9 +3,7 @@
 <h3 align="center">A passionate fullstack developer from Italy</h3>
 <a align="center" href="https://fullstack-portfolio-three.vercel.app/">Visit My Portfolio</a>  
 
-- 🔭 I’m currently working on ecommerce
-
-- 🌱 I’m currently learning **Python**
+- 🔭 I’m currently working in Norma's Teaching
 
 - 👯 I’m looking to collaborate on **fullstack projects**
 
