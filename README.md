@@ -2,7 +2,7 @@
 <h1 align="center">
 Hi, I'm Gianmarco but you can call me Gim!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- <img src="https://komarev.com/ghpvc/?username=PonlawatP&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="PonlawatP" />
+ <img src="https://komarev.com/ghpvc/?username=Jim2510&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="jim2510" />
 
 <br/>
 
