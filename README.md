@@ -15,7 +15,7 @@ just learning in production. motivated by forced.
 
 ## 🔥 Streak Stats
 
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<!-- GitHub Readme Streak Stats - https://github.com/Jim2510/github-readme-streak-stats -->
 <p align="center">
 
   <p align="center"> If you can dream it, you can do it🔥 </p>
