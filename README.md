@@ -59,6 +59,7 @@ just learning in production. motivated by forced.
 <p>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+    <a href="#"><img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-%23400080.svg?logo=insomnia&logoColor=white"></a>
     <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?logo=visualstudiocode&logoColor=white"></a>
     <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000080.svg?logo=intellijidea&logoColor=white"></a>
 </p>
