@@ -80,7 +80,7 @@ just learning in production. motivated by forced.
 </details>
 
 
-## 🙋‍♀️ Let's Connect
+## 👋 Let's Connect
 
 <p align="center">
 	<a href="" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
