@@ -1,26 +1,4 @@
 
-<h1 align="center">
-Hi, I'm Gianmarco but you can call me Gim!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- <img src="https://komarev.com/ghpvc/?username=Jim2510&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="jim2510" />
-
-<br/>
-
-<p align="center">
-</p>
-<hr/>
-<samp>
-just learning in production. motivated by forced.
-</samp>
-
-## 🔥 Streak Stats
-
-<!-- GitHub Readme Streak Stats - https://github.com/Jim2510/github-readme-streak-stats -->
-<p align="center">
-
-  <p align="center"> If you can dream it, you can do it🔥 </p>
-</p>
-
 ## 🛠️ My Favorite Tools
 
 ### 👨‍💻 Programming Languages
